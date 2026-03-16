@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="20260316_1636_Image Generation_remix_01kkvr3bcaetntaex30ktea000(1)" src="https://github.com/user-attachments/assets/99eb9257-209f-4e11-be4e-c48bb5a288de" />
+
+
 # Spotify Premium – Ad-Free Music Streaming for Windows
 
 [![Stars](https://img.shields.io/github/stars/naufal-hidayat2030/Spotify-Premium-Ad-Free-Music-Streaming-for-Windows)](https://github.com/naufal-hidayat2030/Spotify-Premium-Ad-Free-Music-Streaming-for-Windows)
